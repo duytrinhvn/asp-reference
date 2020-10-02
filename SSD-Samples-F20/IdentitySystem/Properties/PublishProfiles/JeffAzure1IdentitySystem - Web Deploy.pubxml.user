@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAxiAA246ag02D7D055LxpTgAAAAACAAAAAAAQZgAAAAEAACAAAABnyvLcky/xQbqtVZfzXmEq6pCon0X4yYb1C6jGf7IoSgAAAAAOgAAAAAIAACAAAAA/60IyUzha4XMGWqvYvyEsH94ccIyJkNSNUyxWJ/41s4AAAABzZVi5QvvOuQ+c6pg5tfl/3q5IXQ2+4tyzmS8rPnJTr5bTEOp9Y8axIprCOOQhntPx1oWg9J6jXP9tZCRMH4n4bJ9AHUumB3RMcUxeAoLPzVHVlMkf3JMl2dyGDCq12D8gAMfqNnM81j7vjrwPEJTOUDpk554UB/qvxwhN7RHoFEAAAAA5PCNWWx5a3Y6JhnljsfmswTxucB9Drd+aaSEcLYFaiknClSS8PN/ZBvHu6dcZLJR3yy5ow+5zHaONW0CqVEJX</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=tcp:identitysystemdbserver.database.windows.net,1433%3bInitial Catalog=IdentitySystem_db%3bUser Id=admin000753390%40identitysystemdbserver%3bPassword=X4bandno1%40</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="IdentitySystem.Data.ApplicationDbContext">
+      <Value>Data Source=tcp:identitysystemdbserver.database.windows.net,1433%3bInitial Catalog=IdentitySystem_db%3bUser Id=admin000753390%40identitysystemdbserver%3bPassword=X4bandno1%40</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
