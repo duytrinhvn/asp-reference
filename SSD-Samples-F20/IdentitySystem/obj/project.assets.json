@@ -9194,11 +9194,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\source\\c#\\SSD-Samples-F20\\IdentitySystem\\IdentitySystem.csproj",
+      "projectUniqueName": "D:\\source\\c#\\c#_references\\SSD-Samples-F20\\IdentitySystem\\IdentitySystem.csproj",
       "projectName": "IdentitySystem",
-      "projectPath": "D:\\source\\c#\\SSD-Samples-F20\\IdentitySystem\\IdentitySystem.csproj",
+      "projectPath": "D:\\source\\c#\\c#_references\\SSD-Samples-F20\\IdentitySystem\\IdentitySystem.csproj",
       "packagesPath": "C:\\Users\\Doublemint\\.nuget\\packages\\",
-      "outputPath": "D:\\source\\c#\\SSD-Samples-F20\\IdentitySystem\\obj\\",
+      "outputPath": "D:\\source\\c#\\c#_references\\SSD-Samples-F20\\IdentitySystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"

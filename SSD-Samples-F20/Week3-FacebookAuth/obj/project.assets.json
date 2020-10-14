@@ -5731,11 +5731,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\source\\c#\\SSD-Samples-F20\\Week3-FacebookAuth\\Week3-FacebookAuth.csproj",
+      "projectUniqueName": "D:\\source\\c#\\c#_references\\SSD-Samples-F20\\Week3-FacebookAuth\\Week3-FacebookAuth.csproj",
       "projectName": "Week3-FacebookAuth",
-      "projectPath": "D:\\source\\c#\\SSD-Samples-F20\\Week3-FacebookAuth\\Week3-FacebookAuth.csproj",
+      "projectPath": "D:\\source\\c#\\c#_references\\SSD-Samples-F20\\Week3-FacebookAuth\\Week3-FacebookAuth.csproj",
       "packagesPath": "C:\\Users\\Doublemint\\.nuget\\packages\\",
-      "outputPath": "D:\\source\\c#\\SSD-Samples-F20\\Week3-FacebookAuth\\obj\\",
+      "outputPath": "D:\\source\\c#\\c#_references\\SSD-Samples-F20\\Week3-FacebookAuth\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"
